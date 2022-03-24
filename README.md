@@ -1,5 +1,7 @@
 This page introduce all links related to Klaytn core development or dApp development on Klaytn.
 
+> DISCLAIMER: The list is updated and maintained by Klaytn Community. Use below tools and links at your own lisk.
+
 You can find Korean video lectures and presentations [here](./contents_kr.md).
 
 * Dev Communication Channels
