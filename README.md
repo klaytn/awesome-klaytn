@@ -51,10 +51,13 @@ You can find Korean video lectures and presentations [here](./contents_kr.md).
   * Klaytn Docs ([EN](https://docs.klaytn.com/), [한](https://ko.docs.klaytn.com/))
   * [Tech Blog](https://medium.com/klaytn/tagged/technology)
   * [KIPs](https://github.com/klaytn/kips)
-* Presentations
-  * [(ETH Devcon5) Extending Ethereum’s Account and Transaction Models in Klaytn](https://archive.devcon.org/archive/watch/5/extending-ethereums-account-and-transaction-models-in-klaytn/?tab=YouTube)
 * Public Disclosure
   * [Xangle](https://xangle.io/project/KLAY/profile/)
 * Miscellaneous
   * [Homebrew Klaytn](https://github.com/klaytn/homebrew-klaytn)
   * [truffle-hdwallet-provider-klaytn](https://github.com/klaytn/truffle-hdwallet-provider-klaytn)
+* Presentations
+  * [(2021/08/05) [Smart Contract Summit #1] Klaytn Tech Stack for NFT](https://www.smartcontractsummit.io/)
+  * [(2019/10/08) [ETH Devcon5] Extending Ethereum’s Account and Transaction Models in Klaytn](https://archive.devcon.org/archive/watch/5/extending-ethereums-account-and-transaction-models-in-klaytn/?tab=YouTube)
+  * [(2019/10/08) [KryptoOsaka] Klaytn - The Ground for All Blockchain Services](https://www.eventbrite.com/e/kryptoosaka-buidling-projects-of-east-and-west-tickets-74307566933#)
+  * [(2018/11/29) [BUIDL Seoul 2018] Exploiting Parallelism with Lightweight Threads in Klaytn](https://buidl.kr/)
