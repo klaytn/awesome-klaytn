@@ -3,7 +3,6 @@
   <img src="https://user-images.githubusercontent.com/76977968/160043893-e815e2a5-2e26-43dd-95bb-01ceed073f07.png" width="600" height="73"/>
 </p>
 
-Welcome to Klaytn! :tada: <br>
 Here you can find our latest articles and updates from the [Klaytn Tech Blog](https://medium.com/klaytn/tagged/technology).
 
 
