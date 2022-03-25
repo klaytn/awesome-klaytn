@@ -23,6 +23,8 @@ You can find Korean video lectures and presentations [here](./contents_kr.md).
   * [Token Pocket](https://www.tokenpocket.pro/)
 * Blockchain Data Explorer
   * [KlaytnScope](https://scope.klaytn.com/)
+  * [LIVE COIN WATCH](https://www.livecoinwatch.com/?platforms=KLAY)
+  * [Bitquery](https://explorer.bitquery.io/klaytn)
 * Deployment Tools
   * [Local Network Deployment Tool using docker-compose](https://github.com/klaytn/local-klaytn-deploy)
   * [ServiceChain Deployment Tool](https://github.com/klaytn/servicechain-deploy)
@@ -39,6 +41,7 @@ You can find Korean video lectures and presentations [here](./contents_kr.md).
   * [Klaytn API Service](https://www.klaytnapi.com/) - Documentation ([EN](https://docs.klaytnapi.com/v/en/), [한](https://docs.klaytnapi.com/))
   * [Covalent API](https://www.covalenthq.com/) - [Documentation](https://www.covalenthq.com/docs/api/#/0/0/USD/8217)
   * [Henesis](https://henesis.io/en) - [Documentation](https://docs.henesis.io/docs)
+  * [Bitquery](https://bitquery.io/blog/klaytn-api)
 * Status Pages
   * [Klaytn Network Status Page](https://status.klaytn.com/)
   * [Klaytn API Service Status Page](https://status.klaytnapi.com/)
