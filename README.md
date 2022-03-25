@@ -53,8 +53,7 @@ You can find Korean video lectures and presentations [here](./contents_kr.md).
   * [CN Staking contract tests](https://github.com/klaytn/cn-staking-contract-tests)
 * Documentation
   * Klaytn Docs ([EN](https://docs.klaytn.com/), [한](https://ko.docs.klaytn.com/))
-  * [Tech Blog](https://medium.com/klaytn/tagged/technology)
-   * [Tech Blog Article List](https://github.com/klaytn/klaytn/wiki/Tech-Blog)
+ * [Tech Blog Article List](./tech-blog.md)
   * [KIPs](https://github.com/klaytn/kips)
 * Public Disclosure
   * [Xangle](https://xangle.io/project/KLAY/profile/)
