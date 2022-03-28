@@ -1,15 +1,17 @@
 # Awesome Klaytn
 
-This page introduce all links related to Klaytn core development or dApp development on Klaytn.
+This page introduce all links related to core and ecosystem development of Klaytn.
 
-> DISCLAIMER: The list is updated and maintained by Klaytn Community. Use below tools and links at your own lisk.
+> DISCLAIMER: The list is updated and maintained by the Klaytn Community. Use below tools and links at your own risk.
 
-You can find Korean video lectures and presentations [here](./contents_kr.md).
+You can find all the video lectures and presentations in Korean [here](./contents_kr.md).
 
 You can find services running on Klaytn [here](./Services.md).
 
-* Dev Communication Channels
+* Developer Communication Channels and Forums
   * [Discord](https://discord.gg/aY8mrCGANk)
+  * [Gitter](https://gitter.im/klaytn)
+  * [Klaytn Developer Forum](https://forum.klaytn.com/)
 * SDKs
   * [caver-js](https://github.com/klaytn/caver-js)
   * [caver-java](https://github.com/klaytn/caver-java)
@@ -42,6 +44,7 @@ You can find services running on Klaytn [here](./Services.md).
 * API services
   * [Klaytn API Service](https://www.klaytnapi.com/) - Documentation ([EN](https://docs.klaytnapi.com/v/en/), [한](https://docs.klaytnapi.com/))
   * [Covalent API](https://www.covalenthq.com/) - [Documentation](https://www.covalenthq.com/docs/api/#/0/0/USD/8217)
+  * [Tatum](https://tatum.io/) - [Documentation](https://tatum.io/apidoc.php#tag/Blockchain-Klaytn)
   * [Henesis](https://henesis.io/en) - [Documentation](https://docs.henesis.io/docs)
   * [Bitquery](https://bitquery.io/blog/klaytn-api)
 * Status Pages
@@ -66,6 +69,8 @@ You can find services running on Klaytn [here](./Services.md).
   * [Homebrew Klaytn](https://github.com/klaytn/homebrew-klaytn)
   * [truffle-hdwallet-provider-klaytn](https://github.com/klaytn/truffle-hdwallet-provider-klaytn)
 * Presentations
+  * [(2022/03/03) [Klaytn - Covalent Joint Developer Webinar] Covalent Unified API Integrated with Klaytn Ecosystem](https://www.youtube.com/watch?v=BM3QzKEVi2U)
+  * [(2022/02/12) [Paul Barron Network Interview] Klaytn interview | Dynamic NFTs & Layer 1 Metaverse](https://www.youtube.com/watch?v=HK64ecRSlpg)
   * [(2021/08/05) [Smart Contract Summit #1] Klaytn Tech Stack for NFT](https://www.smartcontractsummit.io/)
   * [(2019/10/08) [ETH Devcon5] Extending Ethereum’s Account and Transaction Models in Klaytn](https://archive.devcon.org/archive/watch/5/extending-ethereums-account-and-transaction-models-in-klaytn/?tab=YouTube)
   * [(2019/10/08) [KryptoOsaka] Klaytn - The Ground for All Blockchain Services](https://www.eventbrite.com/e/kryptoosaka-buidling-projects-of-east-and-west-tickets-74307566933#)
