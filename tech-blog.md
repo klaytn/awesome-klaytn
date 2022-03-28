@@ -9,9 +9,9 @@ Here you can find our latest articles and updates from the [Klaytn Tech Blog](ht
 
 # Recent Updates
 
-Klaytn v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/klaytn-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-90093f36015a), [영어](https://medium.com/klaytn/klaytn-v1-8-0-release-notes-7e609e3c0661) )
+Klaytn v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/klaytn-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-90093f36015a), [English](https://medium.com/klaytn/klaytn-v1-8-0-release-notes-7e609e3c0661) )
 
-caver-java/js v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/%EA%B3%B5%EC%A7%80-kas-sdk-caver-js-java-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-83ee778f0273), [영어](https://medium.com/klaytn/notice-kas-sdk-caver-js-java-v1-8-0-release-e63477e9d245) )
+caver-java/js v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/%EA%B3%B5%EC%A7%80-kas-sdk-caver-js-java-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-83ee778f0273), [English](https://medium.com/klaytn/notice-kas-sdk-caver-js-java-v1-8-0-release-e63477e9d245) )
 
 
 Toward Ethereum Equivalence #1 — Introducing Klaytn v1.8.0 ([한국어](https://medium.com/klaytn-kr/toward-ethereum-equivalence-1-introducing-klaytn-v1-8-0-kr-d9114571acf8), [English](https://medium.com/klaytn/toward-ethereum-equivalence-1-introducing-klaytn-v1-8-0-971911be7ff9) )
