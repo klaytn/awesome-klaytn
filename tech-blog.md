@@ -3,7 +3,6 @@
   <img src="./images/Klaytn_Techblog.png" width="600" height="73"/>
 </p>
 
-Welcome to Klaytn! :tada: <br>
 Here you can find our latest articles and updates from the [Klaytn Tech Blog](https://medium.com/klaytn/tagged/technology).
 
 
