@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76977968/160043893-e815e2a5-2e26-43dd-95bb-01ceed073f07.png" width="600" height="73"/>
+  <img src="./images/Klaytn_Techblog.png" width="600" height="73"/>
 </p>
 
 Welcome to Klaytn! :tada: <br>
