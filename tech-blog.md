@@ -13,10 +13,10 @@ Klaytn's 2022 Quarterly Tech Roadmap ([한국어](https://medium.com/klaytn-kr/%
 
 Demystifying Misconceptions on Klaytn's Technology ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EA%B8%B0%EC%88%A0%EB%A0%A5%EC%97%90-%EA%B4%80%ED%95%9C-%EC%98%A4%ED%95%B4%EB%A5%BC-%ED%92%80%EC%96%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-bb666933e146), [English](https://medium.com/klaytn/demystifying-misconceptions-on-klaytns-technology-874d6573e66a) )
 
-Overview on Klaytn Architecture ([한국어]([https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EA%B8%B0%EC%88%A0%EB%A0%A5%EC%97%90-%EA%B4%80%ED%95%9C-%EC%98%A4%ED%95%B4%EB%A5%BC-%ED%92%80%EC%96%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-bb666933e146](https://medium.com/klaytn-kr/an-overview-of-klaytn-architecture-2dc9af129609), [English]([https://medium.com/klaytn/demystifying-misconceptions-on-klaytns-technology-874d6573e66a](https://medium.com/klaytn/an-overview-of-klaytn-architecture-456535defab9) )
+Overview on Klaytn Architecture ([한국어]([https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EA%B8%B0%EC%88%A0%EB%A0%A5%EC%97%90-%EA%B4%80%ED%95%9C-%EC%98%A4%ED%95%B4%EB%A5%BC-%ED%92%80%EC%96%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-bb666933e146), [English]([https://medium.com/klaytn/demystifying-misconceptions-on-klaytns-technology-874d6573e66a](https://medium.com/klaytn/an-overview-of-klaytn-architecture-456535defab9](https://medium.com/klaytn-kr/an-overview-of-klaytn-architecture-2dc9af129609) )
 
 
-Klaytn v1.8.3 Release Notes ([한국어]([https://medium.com/klaytn-kr/klaytn-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-90093f36015a](https://medium.com/klaytn-kr/klaytn-v1-8-3-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-3b2b366ecbf4), [English]([https://medium.com/klaytn/klaytn-v1-8-0-release-notes-7e609e3c0661](https://medium.com/klaytn/klaytn-v1-8-3-release-notes-ee94f368ce52) )
+Klaytn v1.8.3 Release Notes ([한국어]([https://medium.com/klaytn-kr/klaytn-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-90093f36015a](https://medium.com/klaytn-kr/klaytn-v1-8-3-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-3b2b366ecbf4), [English](https://medium.com/klaytn/klaytn-v1-8-0-release-notes-7e609e3c0661](https://medium.com/klaytn/klaytn-v1-8-3-release-notes-ee94f368ce52) )
 
 Klaytn v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/klaytn-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-90093f36015a), [English](https://medium.com/klaytn/klaytn-v1-8-0-release-notes-7e609e3c0661) )
 
