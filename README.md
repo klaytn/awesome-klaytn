@@ -36,6 +36,10 @@ You can find services running on Klaytn [here](./Services.md).
   * [Klaytn Ansible Modules](https://github.com/klaytn/klaytn-ansible)
 * Smart Contracts
   * [Smart contracts for Klaytn](https://github.com/klaytn/klaytn-contracts)
+* Starter Kits
+  * [klaytn-0.5.6-Boilerplate](https://github.com/GaeJobBu/klaytn-0.5.6-Boilerplate)
+  * [klay-batch-transfer](https://github.com/GaeJobBu/klay-batch-transfer)
+  * [kip37-snapshot](https://github.com/GaeJobBu/kip37-snapshot)
 * NFT Marketplace
   * [OpenSea](https://opensea.io/)
 * dApp Directory Services
