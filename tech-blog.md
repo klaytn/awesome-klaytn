@@ -9,6 +9,8 @@ Here you can find our latest articles and updates from the [Klaytn Tech Blog](ht
 
 # Recent Updates
 
+Klaytn's Strengths as a L1 Mainnet ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC%EC%9D%B4-layer-1-%EB%A9%94%EC%9D%B8%EB%84%B7%EC%9C%BC%EB%A1%9C%EC%84%9C-%EA%B0%96%EB%8A%94-%EA%B2%BD%EC%9F%81%EB%A0%A5-52eff32a6d8f), [English](https://medium.com/klaytn/klaytns-strengths-as-a-layer-1-mainnet-46981c5201cc) )
+
 Klaytn's 2022 Quarterly Tech Roadmap ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%ED%8C%80%EC%9D%98-2022%EB%85%84-%EB%B6%84%EA%B8%B0%EB%B3%84-%EA%B8%B0%EC%88%A0-%EB%A1%9C%EB%93%9C%EB%A7%B5%EC%9D%84-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-41425c82a575 ), [English](https://medium.com/klaytn/announcing-klaytns-2022-quarterly-tech-roadmap-acdb92d89a59) )
 
 Demystifying Misconceptions on Klaytn's Technology ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EA%B8%B0%EC%88%A0%EB%A0%A5%EC%97%90-%EA%B4%80%ED%95%9C-%EC%98%A4%ED%95%B4%EB%A5%BC-%ED%92%80%EC%96%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-bb666933e146), [English](https://medium.com/klaytn/demystifying-misconceptions-on-klaytns-technology-874d6573e66a) )
