@@ -54,6 +54,7 @@ You can find services running on Klaytn [here](./Services.md).
   * [State of the dApps](https://www.stateofthedapps.com/ko/rankings/platform/klaytn)
 * API services
   * [Klaytn API Service](https://www.klaytnapi.com/) - Documentation ([EN](https://docs.klaytnapi.com/v/en/), [한](https://docs.klaytnapi.com/))
+  * [Public JSON-RPC Endpoints](https://docs.klaytn.foundation/dapp/json-rpc/public-en)
   * [Covalent API](https://www.covalenthq.com/) - [Documentation](https://www.covalenthq.com/docs/networks/klaytn/)
   * [Tatum](https://tatum.io/) - [Documentation](https://tatum.io/apidoc.php#tag/Blockchain-Klaytn)
   * [Henesis](https://henesis.io/en) - [Documentation](https://docs.henesis.io/docs)
