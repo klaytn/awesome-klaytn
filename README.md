@@ -43,6 +43,12 @@ You can find services running on Klaytn [here](./Services.md).
 * NFTs
   * NFT Marketplace [OpenSea](https://opensea.io/)
   * NFT Minting Studio [Krafterspace](https://www.krafter.space/en/explore)
+* Starter Kits
+  * [klaytn-0.5.6-Boilerplate](https://github.com/GaeJobBu/klaytn-0.5.6-Boilerplate)
+  * [klay-batch-transfer](https://github.com/GaeJobBu/klay-batch-transfer)
+  * [kip37-snapshot](https://github.com/GaeJobBu/kip37-snapshot)
+* NFT Marketplace
+  * [OpenSea](https://opensea.io/)
 * dApp Directory Services
   * [dapp.com](https://opensea.io/)
   * [State of the dApps](https://www.stateofthedapps.com/ko/rankings/platform/klaytn)
