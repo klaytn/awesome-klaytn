@@ -25,10 +25,14 @@ You can find services running on Klaytn [here](./Services.md).
   * [Klaytn Wallet](https://wallet.klaytn.com/)
   * [Huobi Wallet](https://www.huobiwallet.com/en/)
   * [Token Pocket](https://www.tokenpocket.pro/)
-* Blockchain Data Explorer
+* Block Explorer
   * [KlaytnScope](https://scope.klaytn.com/)
   * [LIVE COIN WATCH](https://www.livecoinwatch.com/?platforms=KLAY)
   * [Bitquery](https://explorer.bitquery.io/klaytn)
+* Oracles/Bridges
+  * [Witnet](https://feeds.witnet.io/klaytn)
+  * [Orbit](https://bridge.orbitchain.io/)
+  * [SixBridges](https://bridge.six.network/)
 * Deployment Tools
   * [Local Network Deployment Tool using docker-compose](https://github.com/klaytn/local-klaytn-deploy)
   * [ServiceChain Deployment Tool](https://github.com/klaytn/servicechain-deploy)
@@ -36,6 +40,9 @@ You can find services running on Klaytn [here](./Services.md).
   * [Klaytn Ansible Modules](https://github.com/klaytn/klaytn-ansible)
 * Smart Contracts
   * [Smart contracts for Klaytn](https://github.com/klaytn/klaytn-contracts)
+* NFTs
+  * NFT Marketplace [OpenSea](https://opensea.io/)
+  * NFT Minting Studio [Krafterspace](https://www.krafter.space/en/explore)
 * Starter Kits
   * [klaytn-0.5.6-Boilerplate](https://github.com/GaeJobBu/klaytn-0.5.6-Boilerplate)
   * [klay-batch-transfer](https://github.com/GaeJobBu/klay-batch-transfer)
@@ -48,7 +55,7 @@ You can find services running on Klaytn [here](./Services.md).
 * API services
   * [Klaytn API Service](https://www.klaytnapi.com/) - Documentation ([EN](https://docs.klaytnapi.com/v/en/), [한](https://docs.klaytnapi.com/))
   * [Public JSON-RPC Endpoints](https://docs.klaytn.foundation/dapp/json-rpc/public-en)
-  * [Covalent API](https://www.covalenthq.com/) - [Documentation](https://www.covalenthq.com/docs/api/#/0/0/USD/8217)
+  * [Covalent API](https://www.covalenthq.com/) - [Documentation](https://www.covalenthq.com/docs/networks/klaytn/)
   * [Tatum](https://tatum.io/) - [Documentation](https://tatum.io/apidoc.php#tag/Blockchain-Klaytn)
   * [Henesis](https://henesis.io/en) - [Documentation](https://docs.henesis.io/docs)
   * [Bitquery](https://bitquery.io/blog/klaytn-api)
