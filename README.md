@@ -33,6 +33,8 @@ You can find services running on Klaytn [here](./Services.md).
   * [Witnet](https://feeds.witnet.io/klaytn)
   * [Orbit](https://bridge.orbitchain.io/)
   * [SixBridges](https://bridge.six.network/)
+* Governance/Voting
+  * [Snapshot.org](https://snapshot.org/#/networks?q=klaytn)
 * Deployment Tools
   * [Local Network Deployment Tool using docker-compose](https://github.com/klaytn/local-klaytn-deploy)
   * [ServiceChain Deployment Tool](https://github.com/klaytn/servicechain-deploy)
