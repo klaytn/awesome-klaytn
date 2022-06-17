@@ -27,6 +27,7 @@ You can find services running on Klaytn [here](./Services.md).
   * [Token Pocket](https://www.tokenpocket.pro/)
 * Block Explorer
   * [KlaytnScope](https://scope.klaytn.com/)
+  * [KlaytnFinder](https://www.klaytnfinder.io/)
   * [LIVE COIN WATCH](https://www.livecoinwatch.com/?platforms=KLAY)
   * [Bitquery](https://explorer.bitquery.io/klaytn)
 * Oracles/Bridges
@@ -46,15 +47,14 @@ You can find services running on Klaytn [here](./Services.md).
   * [Klaytn Load Tester](https://github.com/klaytn/klaytn-load-tester)
 * Smart Contracts
   * [Smart contracts for Klaytn](https://github.com/klaytn/klaytn-contracts)
-* NFTs
-  * NFT Marketplace [OpenSea](https://opensea.io/)
-  * NFT Minting Studio [Krafterspace](https://www.krafter.space/en/explore)
 * Starter Kits
   * [klaytn-0.5.6-Boilerplate](https://github.com/GaeJobBu/klaytn-0.5.6-Boilerplate)
   * [klay-batch-transfer](https://github.com/GaeJobBu/klay-batch-transfer)
   * [kip37-snapshot](https://github.com/GaeJobBu/kip37-snapshot)
 * NFT Marketplace
   * [OpenSea](https://opensea.io/)
+  * [Pala Square](https://pala.world/square)
+  * [TOFUNFT](https://tofunft.com/klaytn)
 * dApp Directory Services
   * [dapp.com](https://opensea.io/)
   * [State of the dApps](https://www.stateofthedapps.com/ko/rankings/platform/klaytn)
@@ -78,12 +78,13 @@ You can find services running on Klaytn [here](./Services.md).
   * [caver-java-examples](https://github.com/klaytn/caver-java-examples)
   * [CN Staking contract tests](https://github.com/klaytn/cn-staking-contract-tests)
   * [NFT Transfer on Cypress using Metamask](https://github.com/Yeonju-Kim/nft-transfer-klaytn)
+  * NFT Minting Studio [Krafterspace](https://www.krafter.space/en/explore)
 * Documentation
   * Klaytn Docs ([EN](https://docs.klaytn.com/), [한](https://ko.docs.klaytn.com/))
  * [Tech Blog Article List](./tech-blog.md)
   * [KIPs](https://github.com/klaytn/kips)
 * Public Disclosure
-  * [Xangle](https://xangle.io/project/KLAY/profile/)
+  * [Xangle](https://xangle.io/analytics)
 * Miscellaneous
   * [Homebrew Klaytn](https://github.com/klaytn/homebrew-klaytn)
   * [truffle-hdwallet-provider-klaytn](https://github.com/klaytn/truffle-hdwallet-provider-klaytn)
