@@ -58,6 +58,8 @@ This page introduces all links related to core and ecosystem development of Klay
 * [Tatum](https://tatum.io/) - [Documentation](https://tatum.io/apidoc.php#tag/Blockchain-Klaytn)
 * [Henesis](https://henesis.io/en) - [Documentation](https://docs.henesis.io/docs)
 * [Bitquery](https://bitquery.io/blog/klaytn-api)
+* [BlockPI](https://blockpi.io/)
+* [Octet](https://octet.im/product/)
  
 ## Development Tools
 * [Klaytn IDE](https://ide.klaytn.com/)
