@@ -1,6 +1,6 @@
 # Awesome Klaytn
 
-This page introduce all links related to core and ecosystem development of Klaytn.
+This page introduces all links related to core and ecosystem development of Klaytn.
 
 > DISCLAIMER: The list is updated and maintained by the Klaytn Community. Use below tools and links at your own risk.
 
