@@ -19,7 +19,6 @@ This page introduce all links related to core and ecosystem development of Klayt
 * [KIPs](https://github.com/klaytn/kips)
 * [Tech Blog Article List](./tech-blog.md)
  
-
 ## Block Explorers
 * [KlaytnScope](https://scope.klaytn.com/)
 * [KlaytnFinder](https://www.klaytnfinder.io/)
@@ -59,8 +58,10 @@ This page introduce all links related to core and ecosystem development of Klayt
 * [Henesis](https://henesis.io/en) - [Documentation](https://docs.henesis.io/docs)
 * [Bitquery](https://bitquery.io/blog/klaytn-api)
  
-## IDEs
+## Development Tools
 * [Klaytn IDE](https://ide.klaytn.com/)
+* [Truffle](https://github.com/trufflesuite/truffle)
+* [Hardhat](https://hardhat.org/)
 
 ## Starter Kits
 * [Smart contracts for Klaytn](https://github.com/klaytn/klaytn-contracts)
