@@ -37,13 +37,13 @@ This page introduce all links related to core and ecosystem development of Klayt
   * [Biport](https://biport.io/)
   * [Alphawallet](https://alphawallet.com/)
   * [BitKeep](https://bitkeep.com/)
-  * [Trustkeys])(https://trustkeys.network/)
+  * [Trustkeys](https://trustkeys.network/)
   * [Nest](https://nes.tech/)
   * [Math Wallet](https://mathwallet.org/ko-kr/)
 * Browser Extension Wallets
   * [Kaikas](https://chrome.google.com/webstore/detail/kaikas/jblndlipeogpafnldhgmapagcccfchpi) - [Documentation](https://docs.kaikas.io/)
   * [Dekey](https://chrome.google.com/webstore/detail/dekey/cekclnkpicopjiagjphfoahcinhmgbjp)
-  * [COIN98]([https://wallet.coin98.com/](https://chrome.google.com/webstore/detail/coin98-wallet/aeachknmefphepccionboohckonoeemg))
+  * [COIN98](https://chrome.google.com/webstore/detail/coin98-wallet/aeachknmefphepccionboohckonoeemg)
 * Hardware Wallets
   * [D'CENT](https://dcentwallet.com/)
 
