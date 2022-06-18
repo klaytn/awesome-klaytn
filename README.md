@@ -49,6 +49,7 @@ This page introduce all links related to core and ecosystem development of Klayt
 ## SDKs
 * [caver-js](https://github.com/klaytn/caver-js)
 * [caver-java](https://github.com/klaytn/caver-java)
+* [tatum-js](https://github.com/tatumio/tatum-js)
 
 ## API Services
 * [Klaytn API Service](https://www.klaytnapi.com/) - Documentation ([EN](https://docs.klaytnapi.com/v/en/), [한](https://docs.klaytnapi.com/))
