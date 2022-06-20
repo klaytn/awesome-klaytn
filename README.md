@@ -19,11 +19,12 @@ This page introduces all links related to core and ecosystem development of Klay
 * [KIPs](https://github.com/klaytn/kips)
 * [Tech Blog Article List](./tech-blog.md)
  
-## Block Explorers
+## Chain Data Explorers
 * [KlaytnScope](https://scope.klaytn.com/)
 * [KlaytnFinder](https://www.klaytnfinder.io/)
 * [LIVE COIN WATCH](https://www.livecoinwatch.com/?platforms=KLAY)
 * [Bitquery](https://explorer.bitquery.io/klaytn)
+* [Finding NFT](https://findingnft.io/)
 
 ## Wallets
 * Mobile Wallets
