@@ -140,8 +140,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * [Building a Klaytn bApp with Caver-Js](https://oxpampam.hashnode.dev/building-a-klaytn-bapp-with-caver-js)
 * [How to set up an Hardhat project for Klaytn](https://oxpampam.hashnode.dev/how-to-set-up-a-hardhat-project-for-klaytn)
 * [Klaytn Baobab Faucet: Solidity Smart Contract](https://oxpampam.hashnode.dev/klaytn-baobab-faucet-solidity-smart-contract)
-* [Beginner's guide on how to add Klaytn to Metamask
-](https://oxpampam.hashnode.dev/beginners-guide-on-how-to-add-klaytn-to-metamask)
+* [Beginner's guide on how to add Klaytn to Metamask](https://oxpampam.hashnode.dev/beginners-guide-on-how-to-add-klaytn-to-metamask)
 
 
 ## Presentations
