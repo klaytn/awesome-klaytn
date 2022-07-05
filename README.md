@@ -107,6 +107,7 @@ This page introduces all links related to core and ecosystem development of Klay
 ## Bridges
 * [Orbit Bridge](https://bridge.orbitchain.io/)
 * [Six Bridge](https://bridge.six.network/)
+* [Synapse Protocol](https://synapseprotocol.com/landing)
 
 ## Governance/Voting Tools 
 * [XDAO](https://www.xdao.app/)
