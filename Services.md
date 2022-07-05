@@ -15,9 +15,12 @@ This page has information about public services running on Klaytn.
   * Games
     * [KnightStory](https://knightstory.io/)
     * [Crypto Sword & Magic](https://www.cryptoswordandmagic.com/)
-  * Extensive List Of Klaytn NFTs
-    * [Opensea Klaytn](https://opensea.io/rankings?chain=klaytn)
-    * [NFT Stats](https://www.nft-stats.com/)
+  * NFT Marketplace
+    * [OpenSea](https://opensea.io/rankings?chain=klaytn)
+  * Statistics
+    * [NFTStats](https://www.nft-stats.com/)
+  * Dashboard
+    * [NFTBank](https://nftbank.ai/)
 * Decentralized Finance & Related Services
   * DeFi Explorer
     * [APY.TOP](https://apy.top/find)
@@ -30,7 +33,8 @@ This page has information about public services running on Klaytn.
     * [nBlocks](https://nblocks.io/)
   * Interchain Bridge
     * [OrbitBridge](https://bridge.orbitchain.io/)
-  * Extensive List Of Klaytn DeFis
-    * [Defillama Klaytn](https://defillama.com/chain/Klaytn)
+  * Statistics
+    * [Defillama](https://defillama.com/chain/Klaytn)
     * [Klaylabs](https://www.klaylabs.net/)
-    * [DeBank] (https://debank.com/)
+  * Dashboard
+    * [DeBank](https://debank.com/)
