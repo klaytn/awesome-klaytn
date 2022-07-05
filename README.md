@@ -131,6 +131,18 @@ This page introduces all links related to core and ecosystem development of Klay
 * [Homebrew Klaytn](https://github.com/klaytn/homebrew-klaytn)
 * [truffle-hdwallet-provider-klaytn](https://github.com/klaytn/truffle-hdwallet-provider-klaytn)
 
+## Useful Article Links by Community Members
+
+* [Building with Klaytn](https://oxpampam.hashnode.dev/building-with-klaytn-what-is-klaytn-and-how-to-get-started-as-a-developer)
+* [Beginner’s Guide To Kaikas Wallet](https://oxpampam.hashnode.dev/the-beginners-guide-to-kaikas)
+* [Create and Deploy your First Smart Contract with Klaytn IDE](https://oxpampam.hashnode.dev/create-and-deploy-your-first-smart-contract-with-klaytn-ide)
+* [How To Create and Deploy an ERC20 Token on Klaytn](https://oxpampam.hashnode.dev/how-to-create-and-deploy-an-erc20-token-on-klaytn))
+* [Building a Klaytn bApp with Caver-Js](https://oxpampam.hashnode.dev/building-a-klaytn-bapp-with-caver-js)
+* [How to set up an Hardhat project for Klaytn](https://oxpampam.hashnode.dev/how-to-set-up-a-hardhat-project-for-klaytn)
+* [Klaytn Baobab Faucet: Solidity Smart Contract](https://oxpampam.hashnode.dev/klaytn-baobab-faucet-solidity-smart-contract)
+* [Beginner's guide on how to add Klaytn to Metamask](https://oxpampam.hashnode.dev/beginners-guide-on-how-to-add-klaytn-to-metamask)
+
+
 ## Presentations
 * [(2022/03/03) [Klaytn - Covalent Joint Developer Webinar] Covalent Unified API Integrated with Klaytn Ecosystem](https://www.youtube.com/watch?v=BM3QzKEVi2U)
 * [(2022/02/12) [Paul Barron Network Interview] Klaytn interview | Dynamic NFTs & Layer 1 Metaverse](https://www.youtube.com/watch?v=HK64ecRSlpg)
