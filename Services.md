@@ -34,7 +34,7 @@ This page has information about public services running on Klaytn.
   * Interchain Bridge
     * [OrbitBridge](https://bridge.orbitchain.io/)
   * Statistics
-    * [Defillama](https://defillama.com/chain/Klaytn)
-    * [Klaylabs](https://www.klaylabs.net/)
+    * [Defi Llama](https://defillama.com/chain/Klaytn)
+    * [KLAYLABS](https://www.klaylabs.net/)
   * Dashboard
     * [DeBank](https://debank.com/)
