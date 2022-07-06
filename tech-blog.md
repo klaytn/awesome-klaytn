@@ -9,6 +9,14 @@ Here you can find our latest articles and updates from the [Klaytn Tech Blog](ht
 
 # Recent Updates
 
+How to deploy a smart contract on Klaytn ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%97%90-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-a2704e37f19c), [English](https://medium.com/klaytn/how-to-deploy-a-smart-contract-on-klaytn-945e3306760f) ) 
+
+How to run a local Klaytn network ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EB%A1%9C%EC%BB%AC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-229c75e940f9), [English](https://medium.com/klaytn/how-to-run-a-local-klaytn-network-9b7a63da04f2) )
+
+Using Klaytn Plugin on Remix ([한국어](https://medium.com/klaytn-kr/%EB%A6%AC%EB%AF%B9%EC%8A%A4%EC%97%90%EC%84%9C-%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-3394b52cc8fd), [English](https://medium.com/klaytn/using-klaytn-plugin-on-remix-320ead9114fe) )
+
+Using SnapShot for your Klaytn Project Governance ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8A%A4%EB%83%85%EC%83%B7-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-c31f27a9fecb), [English](https://medium.com/klaytn/using-snapshot-for-your-klaytn-project-governance-1ced3ff6244) )
+
 Klaytn's Strengths as a L1 Mainnet ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC%EC%9D%B4-layer-1-%EB%A9%94%EC%9D%B8%EB%84%B7%EC%9C%BC%EB%A1%9C%EC%84%9C-%EA%B0%96%EB%8A%94-%EA%B2%BD%EC%9F%81%EB%A0%A5-52eff32a6d8f), [English](https://medium.com/klaytn/klaytns-strengths-as-a-layer-1-mainnet-46981c5201cc) )
 
 Klaytn's 2022 Quarterly Tech Roadmap ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%ED%8C%80%EC%9D%98-2022%EB%85%84-%EB%B6%84%EA%B8%B0%EB%B3%84-%EA%B8%B0%EC%88%A0-%EB%A1%9C%EB%93%9C%EB%A7%B5%EC%9D%84-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-41425c82a575 ), [English](https://medium.com/klaytn/announcing-klaytns-2022-quarterly-tech-roadmap-acdb92d89a59) )
