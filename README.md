@@ -142,6 +142,8 @@ This page introduces all links related to core and ecosystem development of Klay
 * [How to set up an Hardhat project for Klaytn](https://oxpampam.hashnode.dev/how-to-set-up-a-hardhat-project-for-klaytn)
 * [Klaytn Baobab Faucet: Solidity Smart Contract](https://oxpampam.hashnode.dev/klaytn-baobab-faucet-solidity-smart-contract)
 * [Beginner's guide on how to add Klaytn to Metamask](https://oxpampam.hashnode.dev/beginners-guide-on-how-to-add-klaytn-to-metamask)
+
+## Useful Article Links by Community Members (한국어)
 * [개발없이 Klaytn NFT 발행하기 - Klay-Gacha-Machine](https://medium.com/@eklee808/%EA%B0%9C%EB%B0%9C%EC%97%86%EC%9D%B4-%ED%81%B4%EB%A0%88%EC%9D%B4-%EC%A0%9C%EB%84%88%EB%9F%AC%ED%8B%B0%EB%B8%8C-nft-%EB%B0%9C%ED%96%89%ED%95%98%EA%B8%B0-1-klay-gacha-machine-eb17496e8b22)
 
 
