@@ -9,6 +9,10 @@ Here you can find our latest articles and updates from the [Klaytn Tech Blog](ht
 
 # Recent Updates
 
+Klaytn v1.9.0 Release Notes ([한국어](https://medium.com/klaytn-kr/klaytn-v1-9-0-release-notes-6b4e1f49107e), [English](https://medium.com/klaytn/klaytn-v1-9-0-release-notes-medium-58e4644f7544))
+
+Dynamic Gas Fee Pricing Mechanism ([한국어](https://medium.com/klaytn-kr/%EB%8F%99%EC%A0%81-%EA%B0%80%EC%8A%A4%EB%B9%84-%EC%A0%95%EC%B1%85-dynamic-gas-fee-pricing-mechanism-60dec0d1fd7f), [English](https://medium.com/klaytn/dynamic-gas-fee-pricing-mechanism-1dac83d2689))
+
 How to deploy a smart contract on Klaytn ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%97%90-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-a2704e37f19c), [English](https://medium.com/klaytn/how-to-deploy-a-smart-contract-on-klaytn-945e3306760f) ) 
 
 How to run a local Klaytn network ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EB%A1%9C%EC%BB%AC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-229c75e940f9), [English](https://medium.com/klaytn/how-to-run-a-local-klaytn-network-9b7a63da04f2) )
@@ -27,28 +31,17 @@ Demystifying Misconceptions on Klaytn's Technology ([한국어](https://medium.c
 
 Overview on Klaytn Architecture ([한국어](https://medium.com/klaytn-kr/an-overview-of-klaytn-architecture-2dc9af129609), [English](https://medium.com/klaytn/an-overview-of-klaytn-architecture-456535defab9) )
 
-
-Klaytn v1.8.3 Release Notes ([한국어](https://medium.com/klaytn-kr/klaytn-v1-8-3-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-3b2b366ecbf4), [English](https://medium.com/klaytn/klaytn-v1-8-0-release-notes-7e609e3c0661) )
-
-Klaytn v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/klaytn-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-90093f36015a), [English](https://medium.com/klaytn/klaytn-v1-8-0-release-notes-7e609e3c0661) )
-
-caver-java/js v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/%EA%B3%B5%EC%A7%80-kas-sdk-caver-js-java-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-83ee778f0273), [English](https://medium.com/klaytn/notice-kas-sdk-caver-js-java-v1-8-0-release-e63477e9d245) )
-
-
-Toward Ethereum Equivalence #1 — Introducing Klaytn v1.8.0 ([한국어](https://medium.com/klaytn-kr/toward-ethereum-equivalence-1-introducing-klaytn-v1-8-0-kr-d9114571acf8), [English](https://medium.com/klaytn/toward-ethereum-equivalence-1-introducing-klaytn-v1-8-0-971911be7ff9) )
-
-Toward Ethereum Equivalence #2 — Changes in Precompiled Contract Addresses ([한국어](https://medium.com/klaytn-kr/toward-ethereum-equivalence-2-precompiled-contract-kr-69ca820f3b51), [English](https://medium.com/klaytn/toward-ethereum-equivalence-2-changes-in-precompiled-contract-addresses-a314d9db2927) )
-
-Toward Ethereum Equivalence #3 — Supporting Ethereum API Formats ([한국어](https://medium.com/klaytn-kr/toward-ethereum-equivalence-3-supporting-ethereum-apis-kr-625da4a30dfa), [English](https://medium.com/klaytn/toward-ethereum-equivalence-3-supporting-ethereum-apis-ab16f66008) )
-
-Toward Ethereum Equivalence #4 — Supporting Ethereum Transaction Types ([한국어](https://klaytn.medium.com/toward-ethereum-equivalence-4-ethereum-transaction-types-kr-4a63e511e755), [English](https://medium.com/klaytn/toward-ethereum-equivalence-4-ethereum-transaction-types-a5aefb18e5bf) )
-
-
 # Archive
 
 ## Releases and Updates
 
 ### Klaytn
+
+Klaytn v1.8.4 Release Notes ([한국어](https://medium.com/klaytn-kr/klaytn-v1-8-4-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-817ceb1a6258), [English](https://medium.com/klaytn/klaytn-v1-8-4-release-notes-e95a4b793167))
+
+Klaytn v1.8.3 Release Notes ([한국어](https://medium.com/klaytn-kr/klaytn-v1-8-3-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-3b2b366ecbf4), [English](https://medium.com/klaytn/klaytn-v1-8-0-release-notes-7e609e3c0661) )
+
+Klaytn v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/klaytn-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-90093f36015a), [English](https://medium.com/klaytn/klaytn-v1-8-0-release-notes-7e609e3c0661) )
 
 Klaytn IDE Update([한국어](https://medium.com/klaytn-kr/klaytn-ide-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-9655eb2b6087), [English](https://medium.com/klaytn/klaytn-ide-update-16dc67889c4f) )
 
@@ -62,6 +55,8 @@ Klaytn v1.7.0 ([한국어](https://medium.com/klaytn/notice-klaytn-v1-7-0-releas
 
 ### caver
 
+caver-java/js v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/%EA%B3%B5%EC%A7%80-kas-sdk-caver-js-java-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-83ee778f0273), [English](https://medium.com/klaytn/notice-kas-sdk-caver-js-java-v1-8-0-release-e63477e9d245) )
+
 caver-js v1.6.3 Release ([한국어](https://medium.com/@klaytn-tech/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-java-v1-6-3-%EB%A6%B4%EB%A6%AC%EC%A6%88-dbdf0506e4a5), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-java-v1-6-3-released-86dc93bf3edf) )
 
 caver-java v1.6.1 ([한국어](https://medium.com/@klaytn-tech/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-java-v1-6-1-%EB%A6%B4%EB%A6%AC%EC%A6%88-5efd8606c84b), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-java-v1-6-1-released-78a0987a9c53) )
@@ -71,6 +66,14 @@ caver-js v1.6.1 ([한국어](https://medium.com/klaytn/%EA%B3%B5%EC%A7%80-klaytn
 caver-js v1.6.0 ([한국어](https://medium.com/klaytn/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-js-v1-6-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-96369794c693), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-js-v1-6-0-released-9bc1c5d7c9ff) )
 
 ## Technology
+
+Toward Ethereum Equivalence #1 — Introducing Klaytn v1.8.0 ([한국어](https://medium.com/klaytn-kr/toward-ethereum-equivalence-1-introducing-klaytn-v1-8-0-kr-d9114571acf8), [English](https://medium.com/klaytn/toward-ethereum-equivalence-1-introducing-klaytn-v1-8-0-971911be7ff9) )
+
+Toward Ethereum Equivalence #2 — Changes in Precompiled Contract Addresses ([한국어](https://medium.com/klaytn-kr/toward-ethereum-equivalence-2-precompiled-contract-kr-69ca820f3b51), [English](https://medium.com/klaytn/toward-ethereum-equivalence-2-changes-in-precompiled-contract-addresses-a314d9db2927) )
+
+Toward Ethereum Equivalence #3 — Supporting Ethereum API Formats ([한국어](https://medium.com/klaytn-kr/toward-ethereum-equivalence-3-supporting-ethereum-apis-kr-625da4a30dfa), [English](https://medium.com/klaytn/toward-ethereum-equivalence-3-supporting-ethereum-apis-ab16f66008) )
+
+Toward Ethereum Equivalence #4 — Supporting Ethereum Transaction Types ([한국어](https://klaytn.medium.com/toward-ethereum-equivalence-4-ethereum-transaction-types-kr-4a63e511e755), [English](https://medium.com/klaytn/toward-ethereum-equivalence-4-ethereum-transaction-types-a5aefb18e5bf) )
 
 Klaytn State Migration: An Efficient Way to Reduce Blockchain Data ([한국어](https://medium.com/klaytn/klaytn-state-migration-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%98-storage%EB%A5%BC-%EC%A4%84%EC%97%AC%EB%B3%B4%EC%9E%90-8472287b3d0c?source=collection_home---4------0-----------------------), [English](https://medium.com/klaytn/klaytn-state-migration-an-efficient-way-to-reduce-blockchain-data-6615a3b36523?source=---------3-----------------------) )
 
