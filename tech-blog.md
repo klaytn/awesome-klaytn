@@ -126,3 +126,10 @@ Using IPFS with Caver ([한국어](https://medium.com/klaytn/caver%EB%A5%BC-%EC%
 [Caver-java] Dynamic ABI Loader ([한국어](https://medium.com/klaytn/caver-java-dynamic-abi-loader-8ccef10e7e68?source=collection_home---4------4-----------------------), [English](https://medium.com/klaytn/caver-java-dynamic-abi-loader-5b116c9db673) )
 
 Developing Klaytn Wallet with KAS #1 ([한국어](https://medium.com/klaytn/kas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-klaytn-%EC%A7%80%EA%B0%91-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-1-ced7b6d97668), [English](https://medium.com/klaytn/developing-klaytn-wallet-with-kas-1-c99df1ff8e8e) )
+
+
+## Incident Reports
+
+Analysis on Consensus Delay at Cypress Block 24,002,380 ([한국어](https://medium.com/klaytn/analysis-on-consensus-delay-at-cypress-block-24-002-380-7db8cb366dc1#2b31), [English](https://medium.com/klaytn/analysis-on-consensus-delay-at-cypress-block-24-002-380-7db8cb366dc1))
+
+Incident Report: Block Generation Failure on Klaytn Main-net (Cypress) of Nov. 13th ([한국어](https://medium.com/klaytn-kr/incident-report-klaytn-%EB%A9%94%EC%9D%B8%EB%84%B7-cypress-%EC%9D%98-11-13-%EB%B8%94%EB%A1%9D-%EC%83%9D%EC%84%B1-%EC%9E%A5%EC%95%A0-%EB%B3%B5%EA%B5%AC-%EA%B3%BC%EC%A0%95-%EB%B0%8F-%EC%9B%90%EC%9D%B8-%EB%B6%84%EC%84%9D-c8760ed30a05), [English](https://medium.com/klaytn/incident-report-block-generation-failure-on-klaytn-main-net-cypress-of-nov-13th-8efb849bb8c9))
