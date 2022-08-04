@@ -19,6 +19,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [API Services](#api-services)
 - [Development Tools](#development-tools)
 - [Starter Kits](#starter-kits)
+- [Useful contract addresses deployed on Klaytn](#contracts)
 - [Sample Apps](#sample-apps)
 - [NFT Marketplaces](#nft-marketplaces)
 - [dApp Directory Services](#dapp-directory-services)
@@ -115,6 +116,14 @@ This page introduces all links related to core and ecosystem development of Klay
 * [CN Staking contract tests](https://github.com/klaytn/cn-staking-contract-tests)
 * [NFT Transfer on Cypress using Metamask](https://github.com/Yeonju-Kim/nft-transfer-klaytn)
 * NFT Minting Studio [Krafterspace](https://www.krafter.space/en/explore)
+
+
+## Contracts
+
+* [MultiCall Contract](https://github.com/makerdao/multicall)  
+  * [Cypress](https://scope.klaytn.com/account/0x5f5f0d1b9ff8b3dcace308e39b13b203354906e9) 
+  * [Baobab](https://baobab.scope.klaytn.com/account/0x40643B8Aeaaca0b87Ea1A1E596e64a0e14B1d244)
+  
 
 ## NFT Marketplaces
 * [OpenSea](https://opensea.io/)
