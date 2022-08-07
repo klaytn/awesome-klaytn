@@ -131,6 +131,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * [klaymint](https://www.klaymint.io/)
 * [Klubs](https://klu.bs/)
 * [TOFUNFT](https://tofunft.com/klaytn)
+* [Bluecus](https://bluecus.io/)
  
 ## dApp Directory Services
 * [dapp.com](https://opensea.io/)
