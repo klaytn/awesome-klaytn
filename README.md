@@ -23,6 +23,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Sample Apps](#sample-apps)
 - [NFT Marketplaces](#nft-marketplaces)
 - [dApp Directory Services](#dapp-directory-services)
+- [Analytics](#analytics)
 - [Status Pages](#status-pages)
 - [Oracles](#oracles)
 - [Bridges](#bridges)
@@ -136,6 +137,12 @@ This page introduces all links related to core and ecosystem development of Klay
 ## dApp Directory Services
 * [dapp.com](https://opensea.io/)
 * [State of the dApps](https://www.stateofthedapps.com/ko/rankings/platform/klaytn)
+
+## Analytics
+* [Xangle](https://xangle.io/analytics/KLAY/main)
+* [CryptoQuant](https://cryptoquant.com/asset/klay/summary)
+* [KLAYLABS](https://www.klaylabs.net/)
+* [KlayBird](https://klaybird.xyz/)
 
 ## Status Pages
 * [Klaytn Network Status Page](https://status.klaytn.com/)
