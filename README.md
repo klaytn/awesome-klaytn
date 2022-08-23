@@ -196,6 +196,7 @@ This page introduces all links related to core and ecosystem development of Klay
 
 
 ## Presentations
+* [(2022/08/19) KlayMakers22 Workshop](https://dorahacks.io/hackathon/klaymakers22/workshop)
 * [(2022/03/03) [Klaytn - Covalent Joint Developer Webinar] Covalent Unified API Integrated with Klaytn Ecosystem](https://www.youtube.com/watch?v=BM3QzKEVi2U)
 * [(2022/02/12) [Paul Barron Network Interview] Klaytn interview | Dynamic NFTs & Layer 1 Metaverse](https://www.youtube.com/watch?v=HK64ecRSlpg)
 * [(2021/08/05) [Smart Contract Summit #1] Klaytn Tech Stack for NFT](https://www.smartcontractsummit.io/)
