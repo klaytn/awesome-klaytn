@@ -95,6 +95,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * [BlockSDK](https://blocksdk.com/) - [Documentation](https://documenter.getpostman.com/view/20292093/Uz5FKwxw#7b85cc54-fd97-4a30-9a6b-06808938c1bc)
  
 ## Development Tools
+* [Remix](https://remix.ethereum.org/)
 * [Klaytn IDE](https://ide.klaytn.com/)
 * [Truffle](https://github.com/trufflesuite/truffle)
 * [Hardhat](https://hardhat.org/)
