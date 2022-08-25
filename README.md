@@ -19,8 +19,9 @@ This page introduces all links related to core and ecosystem development of Klay
 - [API Services](#api-services)
 - [Development Tools](#development-tools)
 - [Starter Kits](#starter-kits)
+- [Useful Packages](#useful-packages)
+- [Sample Apps and Examples](#sample-apps-and-examples)
 - [Useful contract addresses deployed on Klaytn](#contracts)
-- [Sample Apps](#sample-apps)
 - [NFT Marketplaces](#nft-marketplaces)
 - [dApp Directory Services](#dapp-directory-services)
 - [Analytics](#analytics)
@@ -75,6 +76,7 @@ This page introduces all links related to core and ecosystem development of Klay
   * [Kaikas](https://chrome.google.com/webstore/detail/kaikas/jblndlipeogpafnldhgmapagcccfchpi) - [Documentation](https://docs.kaikas.io/)
   * [Dekey](https://chrome.google.com/webstore/detail/dekey/cekclnkpicopjiagjphfoahcinhmgbjp)
   * [COIN98](https://chrome.google.com/webstore/detail/coin98-wallet/aeachknmefphepccionboohckonoeemg)
+  * [web3auth](https://web3auth.io/) - [Documentation](https://web3auth.io/docs/connect-blockchain/klaytn)
 * Hardware Wallets
   * [D'CENT](https://dcentwallet.com/)
 
@@ -107,21 +109,24 @@ This page introduces all links related to core and ecosystem development of Klay
 * [klay-batch-transfer](https://github.com/GaeJobBu/klay-batch-transfer)
 * [kip37-snapshot](https://github.com/GaeJobBu/kip37-snapshot)
 
-## Sample Apps 
+## Useful Packages
+* [klaytn-web3modal](https://github.com/klaytn/klaytn-web3modal) [npm](https://www.npmjs.com/package/@klaytn/web3modal)
+* [kaikas-web3-provider](https://github.com/klaytn/kaikas-web3-provider) [npm](https://www.npmjs.com/package/@klaytn/kaikas-web3-provider)
+* [truffle-hdwallet-provider-klaytn](https://github.com/klaytn/truffle-hdwallet-provider-klaytn)
+
+## Sample Apps and Examples
+* [Klaytn Online Toolkit](https://klaytn.github.io/klaytn-online-toolkit/) [github](https://github.com/klaytn/klaytn-online-toolkit)
 * NFT Minting example [FE](https://github.com/klaytn/klaytn-nft-minter-frontend), [BE](https://github.com/klaytn/klaytn-nft-minter-backend)
-* [CountBApp](https://github.com/klaytn/countbapp)
-* [Klaystagram](https://github.com/klaytn/klaystagram)
-* [servicechain-value-transfer-examples](https://github.com/klaytn/servicechain-value-transfer-examples)
 * [Kaikas Tutorial](https://github.com/klaytn/kaikas-tutorial)
 * [caver-js-examples](https://github.com/klaytn/caver-js-examples)
 * [caver-java-examples](https://github.com/klaytn/caver-java-examples)
+* [CountBApp](https://github.com/klaytn/countbapp)
+* [Klaystagram](https://github.com/klaytn/klaystagram)
+* [servicechain-value-transfer-examples](https://github.com/klaytn/servicechain-value-transfer-examples)
 * [CN Staking contract tests](https://github.com/klaytn/cn-staking-contract-tests)
 * [NFT Transfer on Cypress using Metamask](https://github.com/Yeonju-Kim/nft-transfer-klaytn)
-* NFT Minting Studio [Krafterspace](https://www.krafter.space/en/explore)
-
 
 ## Contracts
-
 * [MultiCall Contract](https://github.com/makerdao/multicall)  
   * [Cypress](https://scope.klaytn.com/account/0x5f5f0d1b9ff8b3dcace308e39b13b203354906e9) 
   * [Baobab](https://baobab.scope.klaytn.com/account/0x40643B8Aeaaca0b87Ea1A1E596e64a0e14B1d244)
@@ -181,7 +186,6 @@ This page introduces all links related to core and ecosystem development of Klay
 
 ## Miscellaneous Links
 * [Homebrew Klaytn](https://github.com/klaytn/homebrew-klaytn)
-* [truffle-hdwallet-provider-klaytn](https://github.com/klaytn/truffle-hdwallet-provider-klaytn)
 
 ## Useful Article Links by Community Members
 
