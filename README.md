@@ -156,6 +156,8 @@ This page introduces all links related to core and ecosystem development of Klay
 * [Six Bridge](https://bridge.six.network/)
 * [Synapse Protocol](https://synapseprotocol.com/landing)
 * [Wormhole](https://www.portalbridge.com)
+* [cBridge](https://cbridge.celer.network/8217/1/DAI)
+* [AllBridge](https://app.allbridge.io/bridge?from=KLAY&to=ETH&asset=ABR)
 
 ## Governance/Voting Tools 
 * [XDAO](https://www.xdao.app/)
