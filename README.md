@@ -79,6 +79,8 @@ This page introduces all links related to core and ecosystem development of Klay
   * [web3auth](https://web3auth.io/) - [Documentation](https://web3auth.io/docs/connect-blockchain/klaytn)
 * Hardware Wallets
   * [D'CENT](https://dcentwallet.com/)
+* Multisig Wallet 
+  * [Klaytn Safe](https://ecosystem-dev.klaytn.in/)
 
 ## SDKs
 * [caver-js](https://github.com/klaytn/caver-js)
