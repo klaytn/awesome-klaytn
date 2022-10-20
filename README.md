@@ -167,7 +167,7 @@ This page introduces all links related to core and ecosystem development of Klay
 
 ## Governance/Voting Tools 
 * [XDAO](https://www.xdao.app/)
-* [Snapshot.org](https://snapshot.org/#/networks?q=klaytn)
+* [Snapshot.org](https://snapshot.org/#/?type=networks&q=klaytn)
 
 ## Deployment Tools
 * [Local Network Deployment Tool using docker-compose](https://github.com/klaytn/local-klaytn-deploy)
