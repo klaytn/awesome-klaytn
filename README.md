@@ -132,7 +132,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * [MultiCall Contract](https://github.com/makerdao/multicall)  
   * [Cypress](https://scope.klaytn.com/account/0x5f5f0d1b9ff8b3dcace308e39b13b203354906e9) 
   * [Baobab](https://baobab.scope.klaytn.com/account/0x40643B8Aeaaca0b87Ea1A1E596e64a0e14B1d244)
-  
+* [klaytn-multicall](https://github.com/inevitable-changes/klaytn-multicall)
 
 ## NFT Marketplaces
 * [OpenSea](https://opensea.io/)
