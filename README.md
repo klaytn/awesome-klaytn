@@ -80,7 +80,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * Hardware Wallets
   * [D'CENT](https://dcentwallet.com/)
 * Multisig Wallet 
-  * [Klaytn Safe](https://ecosystem-dev.klaytn.in/)
+  * [Klaytn Safe](https://safe.klaytn.foundation/)
 
 ## SDKs
 * [caver-js](https://github.com/klaytn/caver-js)
