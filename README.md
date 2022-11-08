@@ -115,6 +115,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * [klaytn-web3modal](https://github.com/klaytn/klaytn-web3modal) [npm](https://www.npmjs.com/package/@klaytn/web3modal)
 * [kaikas-web3-provider](https://github.com/klaytn/kaikas-web3-provider) [npm](https://www.npmjs.com/package/@klaytn/kaikas-web3-provider)
 * [truffle-hdwallet-provider-klaytn](https://github.com/klaytn/truffle-hdwallet-provider-klaytn)
+* Wrapped-klay standard - [github](https://github.com/klaytn/canonical-wklay), [npm](https://www.npmjs.com/package/canonical-wklay)
 
 ## Sample Apps and Examples
 * [Klaytn Online Toolkit](https://klaytn.github.io/klaytn-online-toolkit/) [github](https://github.com/klaytn/klaytn-online-toolkit)
