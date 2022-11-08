@@ -127,7 +127,11 @@ This page introduces all links related to core and ecosystem development of Klay
 * [servicechain-value-transfer-examples](https://github.com/klaytn/servicechain-value-transfer-examples)
 * [CN Staking contract tests](https://github.com/klaytn/cn-staking-contract-tests)
 * [NFT Transfer on Cypress using Metamask](https://github.com/Yeonju-Kim/nft-transfer-klaytn)
-* Soulbound token: [Contract](https://github.com/bisonai/sbt-contracts) & [Typescript interface](https://github.com/bisonai/sbt-js)
+* Soulbound token
+  * [Contract repository](https://github.com/bisonai/sbt-contracts)
+  * [Contract npm package](https://www.npmjs.com/package/@bisonai/sbt-contracts)
+  * [Typescript interface repository](https://github.com/bisonai/sbt-js)
+  * [Typescript interface npm package](https://www.npmjs.com/package/@bisonai/sbt-js)
 
 ## Contracts
 * [MultiCall Contract](https://github.com/makerdao/multicall)  
