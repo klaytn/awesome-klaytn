@@ -29,6 +29,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Oracles](#oracles)
 - [Bridges](#bridges)
 - [Governance/Voting Tools](#governancevoting-tools)
+- [Community Management Tools](#community-management-tools)
 - [Deployment Tools](#deployment-tools)
 - [Network Testers](#network-testers)
 - [Public Disclosure](#public-disclosure)
@@ -176,6 +177,9 @@ This page introduces all links related to core and ecosystem development of Klay
 ## Governance/Voting Tools 
 * [XDAO](https://www.xdao.app/)
 * [Snapshot.org](https://snapshot.org/#/?type=networks&q=klaytn)
+
+## Community Management Tools
+* [Discord Bot](https://bot.metaoneer.club/)
 
 ## Deployment Tools
 * [Local Network Deployment Tool using docker-compose](https://github.com/klaytn/local-klaytn-deploy)
