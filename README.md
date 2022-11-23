@@ -163,6 +163,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * [CryptoQuant](https://cryptoquant.com/asset/klay/summary)
 * [KLAYLABS](https://www.klaylabs.net/)
 * [KlayBird](https://klaybird.xyz/)
+* [NFT Stat](https://nftstat.io)
 
 ## Status Pages
 * [Klaytn Network Status Page](https://status.klaytn.com/)
