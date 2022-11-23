@@ -18,6 +18,7 @@ This page introduces all links related to core and ecosystem development of Klay
 
 - [Developer Communication Channels and Forums](#developer-communication-channels-and-forums)
 - [Documentation](#documentation)
+- [Public Endpoints](#public-endpoints)
 - [Chain Data Explorers](#chain-data-explorers)
 - [Wallets](#wallets)
 - [SDKs](#sdks)
@@ -56,6 +57,19 @@ This page introduces all links related to core and ecosystem development of Klay
 * Klaytn Docs ([EN](https://docs.klaytn.com/), [한](https://ko.docs.klaytn.com/))
 * [KIPs](https://github.com/klaytn/kips)
 * [Tech Blog Article List](./tech-blog.md)
+
+## Public Endpoints
+* For more details, please refer to [Klaytn Docs](https://docs.klaytn.foundation/dapp/json-rpc/public-en)
+* https://public-en-cypress.klaytn.net
+* https://public-node-api.klaytnapi.com/v1/cypress
+* https://klaytn01.fautor.app
+* https://klaytn02.fautor.app
+* https://klaytn03.fautor.app
+* https://klaytn04.fautor.app
+* https://klaytn05.fautor.app
+* https://cypress.fautor.app/archive
+* https://klaytn-mainnet-rpc.allthatnode.com:8551
+* https://klaytn-rpc.gateway.pokt.network
  
 ## Chain Data Explorers
 * [KlaytnScope](https://scope.klaytn.com/)
