@@ -164,10 +164,15 @@ This page introduces all links related to core and ecosystem development of Klay
 * [KLAYLABS](https://www.klaylabs.net/)
 * [KlayBird](https://klaybird.xyz/)
 * [NFT Stat](https://nftstat.io)
+* [DEX screener](https://dexscreener.com/klaytn)
 
 ## Status Pages
-* [Klaytn Network Status Page](https://status.klaytn.com/)
+* [Klaytn Network Status Page](https://status.klaytn.foundation/)
 * [Klaytn API Service Status Page](https://status.klaytnapi.com/)
+* Public Endpoint Status Pages
+  * [Klaytn Network Status Page](https://status.klaytn.foundation/)
+  * [DSRV](https://www.allthatnode.com/klaytn.dsrv)
+  * [Endpoint status page from Community](https://3794.github.io/klaytn-rpc-list/)
  
 ## Oracles
 * [Witnet](https://feeds.witnet.io/klaytn)
