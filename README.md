@@ -34,6 +34,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Status Pages](#status-pages)
 - [Oracles](#oracles)
 - [Bridges](#bridges)
+- [DEXs](#dexs)
 - [Governance/Voting Tools](#governancevoting-tools)
 - [Community Management Tools](#community-management-tools)
 - [Deployment Tools](#deployment-tools)
@@ -199,6 +200,13 @@ This page introduces all links related to core and ecosystem development of Klay
 * [cBridge](https://cbridge.celer.network/8217/1/DAI)
 * [AllBridge](https://app.allbridge.io/bridge?from=KLAY&to=ETH&asset=ABR)
 
+## DEXs
+* [Open Source Dex](https://dex.baobab.klaytn.net/) 
+    * [Dex Frontend](https://github.com/klaytn/klaytn-dex-frontend)
+    * [Dex Dashboard](https://github.com/klaytn/klaytn-dex-dashboard)
+    * [Dex Contracts](https://github.com/klaytn/klaytn-dex-contracts)
+    * [Dex Subgraph](https://github.com/klaytn/klaytn-dex-subgraphs)
+    
 ## Governance/Voting Tools 
 * [XDAO](https://www.xdao.app/)
 * [Snapshot.org](https://snapshot.org/#/?type=networks&q=klaytn)
