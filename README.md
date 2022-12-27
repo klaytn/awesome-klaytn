@@ -123,6 +123,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * [Remix](https://remix.ethereum.org/)
 * [Truffle](https://github.com/trufflesuite/truffle)
 * [Hardhat](https://hardhat.org/)
+* [Foundry](https://github.com/foundry-rs/foundry)
 
 ## Starter Kits
 * [Smart contracts for Klaytn](https://github.com/klaytn/klaytn-contracts)
