@@ -220,6 +220,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * [ServiceChain Deployment Tool](https://github.com/klaytn/servicechain-deploy)
 * [Klaytn Terraform Modules](https://github.com/klaytn/klaytn-terraform)
 * [Klaytn Ansible Modules](https://github.com/klaytn/klaytn-ansible)
+* [Klayspray](https://github.com/klaytn/klayspray)
  
 ## Network Testers
 * [Klaytn Network Integration Tester](https://github.com/klaytn/klaytn-deploy)
