@@ -121,7 +121,6 @@ This page introduces all links related to core and ecosystem development of Klay
  
 ## Development Tools
 * [Remix](https://remix.ethereum.org/)
-* [Klaytn IDE](https://ide.klaytn.com/)
 * [Truffle](https://github.com/trufflesuite/truffle)
 * [Hardhat](https://hardhat.org/)
 
