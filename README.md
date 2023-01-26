@@ -141,7 +141,6 @@ This page introduces all links related to core and ecosystem development of Klay
 ## Sample Apps and Examples
 * [Klaytn Online Toolkit](https://klaytn.github.io/klaytn-online-toolkit/) [github](https://github.com/klaytn/klaytn-online-toolkit)
 * NFT Minting example [FE](https://github.com/klaytn/klaytn-nft-minter-frontend), [BE](https://github.com/klaytn/klaytn-nft-minter-backend)
-* [Kaikas Tutorial](https://github.com/klaytn/kaikas-tutorial)
 * [caver-js-examples](https://github.com/klaytn/caver-js-examples)
 * [caver-java-examples](https://github.com/klaytn/caver-java-examples)
 * [CountBApp](https://github.com/klaytn/countbapp)
@@ -167,7 +166,6 @@ This page introduces all links related to core and ecosystem development of Klay
 * [klaymint](https://www.klaymint.io/)
 * [Klubs](https://klu.bs/)
 * [TOFUNFT](https://tofunft.com/klaytn)
-* [Bluecus](https://bluecus.io/)
  
 ## dApp Directory Services
 * [dapp.com](https://opensea.io/)
