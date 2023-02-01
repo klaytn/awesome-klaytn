@@ -189,6 +189,7 @@ This page introduces all links related to core and ecosystem development of Klay
  
 ## Oracles
 * [Witnet](https://feeds.witnet.io/klaytn)
+* [SupraOracles](https://data.supraoracles.com/networks/klaytn)
 
 ## Bridges
 * [Orbit Bridge](https://bridge.orbitchain.io/)
