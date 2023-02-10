@@ -132,6 +132,8 @@ This page introduces all links related to core and ecosystem development of Klay
 * [kaikas-web3-provider](https://github.com/klaytn/kaikas-web3-provider) [npm](https://www.npmjs.com/package/@klaytn/kaikas-web3-provider)
 * [truffle-hdwallet-provider-klaytn](https://github.com/klaytn/truffle-hdwallet-provider-klaytn)
 * Wrapped-klay standard - [github](https://github.com/klaytn/canonical-wklay), [npm](https://www.npmjs.com/package/canonical-wklay)
+  * Mainnet - Cypress: [0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432](https://scope.klaytn.com/account/0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432?tabId=txList)
+  * Testnet - Boabab: [0x043c471bEe060e00A56CcD02c0Ca286808a5A436](https://baobab.scope.klaytn.com/account/0x043c471bEe060e00A56CcD02c0Ca286808a5A436?tabId=txList)
 
 ## Sample Apps and Examples
 * [Klaytn Online Toolkit](https://klaytn.github.io/klaytn-online-toolkit/) [github](https://github.com/klaytn/klaytn-online-toolkit)
