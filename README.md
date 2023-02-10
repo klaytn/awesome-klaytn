@@ -1,8 +1,3 @@
-# Branch name will be changed
-
-We will change the `master` branch to `main` on Dec 15, 2022.
-After the branch policy change, please check your local or forked repository settings.
-
 # Awesome Klaytn
 
 This page introduces all links related to core and ecosystem development of Klaytn.
