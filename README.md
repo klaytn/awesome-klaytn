@@ -176,6 +176,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * [KlayBird](https://klaybird.xyz/)
 * [NFT Stat](https://nftstat.io)
 * [DEX screener](https://dexscreener.com/klaytn)
+* [DefiLlama](https://defillama.com/chain/Klaytn)
 
 ## Status Pages
 * [Klaytn Network Status Page](https://status.klaytn.foundation/)
@@ -199,6 +200,11 @@ This page introduces all links related to core and ecosystem development of Klay
 * [AllBridge](https://app.allbridge.io/bridge?from=KLAY&to=ETH&asset=ABR)
 
 ## DEXs
+* [KLAYswap](https://klayswap.com/)
+* [Pangea Swap](https://www.pangeaswap.com/)
+* [PalaDEX](https://pala.io/dex/pool)
+* [Swapscanner](https://swapscanner.io)
+* [1inch](https://app.1inch.io/#/8217/simple/swap/KLAY/KDAI)
 * [Open Source Dex](https://dex.baobab.klaytn.net/) 
     * [Dex Frontend](https://github.com/klaytn/klaytn-dex-frontend)
     * [Dex Dashboard](https://github.com/klaytn/klaytn-dex-dashboard)
