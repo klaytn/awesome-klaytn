@@ -119,6 +119,7 @@ This page introduces all links related to core and ecosystem development of Klay
 * [Truffle](https://github.com/trufflesuite/truffle)
 * [Hardhat](https://hardhat.org/)
 * [Foundry](https://github.com/foundry-rs/foundry)
+* [thirdweb](https://thirdweb.com/) (Baobab and Cypress can be added by configuring the network in the menu.)
 
 ## Starter Kits
 * [Smart contracts for Klaytn](https://github.com/klaytn/klaytn-contracts)
