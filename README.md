@@ -48,7 +48,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Klaytn Developers Facebook](https://www.facebook.com/groups/klaytndevelopers)
 
 ## Documentation
-- Klaytn Docs ([EN](https://docs.klaytn.com/), [한](https://ko.docs.klaytn.com/))
+- Klaytn Docs ([EN](https://docs.klaytn.com/), [한](https://ko.docs.klaytn.com/)) - Introduces Klaytn, an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions of users.
 - [KIPs](https://github.com/klaytn/kips) - Describe standards for the Klaytn platform, including core protocol specifications, client APIs, and contract standards.
 - [Tech Blog Article List](https://github.com/klaytn/awesome-klaytn/blob/main/tech-blog.md) - Contains Latest articles and updates from the Klaytn Tech Blog.
 
@@ -56,15 +56,9 @@ This page introduces all links related to core and ecosystem development of Klay
 - For more details, please refer to [Klaytn Docs](https://docs.klaytn.foundation/dapp/json-rpc/public-en)
 - https://public-en-cypress.klaytn.net
 - https://public-node-api.klaytnapi.com/v1/cypress
-- https://klaytn01.fautor.app
-- https://klaytn02.fautor.app
-- https://klaytn03.fautor.app
-- https://klaytn04.fautor.app
-- https://klaytn05.fautor.app
-- https://cypress.fautor.app/archive
 - https://klaytn-mainnet-rpc.allthatnode.com:8551
 - https://klaytn-rpc.gateway.pokt.network
- 
+
 ## Chain Data Explorers
 - [KlaytnScope](https://scope.klaytn.com/)
 - [KlaytnFinder](https://www.klaytnfinder.io/)
@@ -190,7 +184,7 @@ This page introduces all links related to core and ecosystem development of Klay
 ## Oracles
 - [Witnet](https://feeds.witnet.io/klaytn)
 - [SupraOracles](https://data.supraoracles.com/networks/klaytn)
-- [KlayOrale](https://www.klayoracle.com/)
+- [KlayOracle](https://www.klayoracle.com/)
 
 ## Bridges
 - [Orbit Bridge](https://bridge.orbitchain.io/)
