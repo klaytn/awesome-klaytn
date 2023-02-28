@@ -53,11 +53,11 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Tech Blog Article List](https://github.com/klaytn/awesome-klaytn/blob/main/tech-blog.md) - Contains Latest articles and updates from the Klaytn Tech Blog.
 
 ## Public Endpoints
-- For more details, please refer to [Klaytn Docs](https://docs.klaytn.foundation/dapp/json-rpc/public-en)
-- https://public-en-cypress.klaytn.net
-- https://public-node-api.klaytnapi.com/v1/cypress
-- https://klaytn-mainnet-rpc.allthatnode.com:8551
-- https://klaytn-rpc.gateway.pokt.network
+- [https://public-en-cypress.klaytn.net](https://public-en-cypress.klaytn.net) - Provided by [Klaytn Foundation](https://www.klaytn.foundation/).
+- [https://public-node-api.klaytnapi.com/v1/cypress](https://public-node-api.klaytnapi.com/v1/cypress) - Provided by [Klaytn API Service](https://www.klaytnapi.com/).
+- [https://klaytn-mainnet-rpc.allthatnode.com:8551](https://klaytn-mainnet-rpc.allthatnode.com:8551) - Provided by [All That Node](https://www.allthatnode.com/).
+- [https://klaytn-rpc.gateway.pokt.network](https://klaytn-rpc.gateway.pokt.network) - Provided by [Pocket network](https://docs.pokt.network/).
+- [For more details please refer here](https://docs.klaytn.foundation/dapp/json-rpc/public-en) - Contains list of public json rpc endpoints.
 
 ## Chain Data Explorers
 - [KlaytnScope](https://scope.klaytn.com/)
