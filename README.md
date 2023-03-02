@@ -193,6 +193,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Wormhole](https://www.portalbridge.com)
 - [cBridge](https://cbridge.celer.network/8217/1/DAI)
 - [AllBridge](https://app.allbridge.io/bridge?from=KLAY&to=ETH&asset=ABR)
+- [Carrier](https://www.carrier.so/)
 
 ## DEXs
 - [KLAYswap](https://klayswap.com/)
