@@ -17,6 +17,8 @@ How to deploy a smart contract on Klaytn ([한국어](https://medium.com/klaytn-
 
 How to run a local Klaytn network ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EB%A1%9C%EC%BB%AC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-229c75e940f9), [English](https://medium.com/klaytn/how-to-run-a-local-klaytn-network-9b7a63da04f2) )
 
+How to use Tatum SDK on Klaytn(Part 1) ([한국어](https://medium.com/klaytn-kr/how-to-use-tatumsdk-on-klaytn-part-1-835223f3e7f3), [English](https://medium.com/klaytn/how-to-use-tatum-sdk-on-klaytn-part-1-919280d763d8))
+
 Using Klaytn Plugin on Remix ([한국어](https://medium.com/klaytn-kr/%EB%A6%AC%EB%AF%B9%EC%8A%A4%EC%97%90%EC%84%9C-%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-3394b52cc8fd), [English](https://medium.com/klaytn/using-klaytn-plugin-on-remix-320ead9114fe) )
 
 Using SnapShot for your Klaytn Project Governance ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8A%A4%EB%83%85%EC%83%B7-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-c31f27a9fecb), [English](https://medium.com/klaytn/using-snapshot-for-your-klaytn-project-governance-1ced3ff6244) )
