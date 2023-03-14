@@ -17,7 +17,7 @@ How to deploy a smart contract on Klaytn ([한국어](https://medium.com/klaytn-
 
 How to run a local Klaytn network ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EB%A1%9C%EC%BB%AC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-229c75e940f9), [English](https://medium.com/klaytn/how-to-run-a-local-klaytn-network-9b7a63da04f2) )
 
-How to use Tatum SDK on Klaytn(Part 1) ([한국어](https://medium.com/klaytn-kr/how-to-use-tatumsdk-on-klaytn-part-1-835223f3e7f3), [English](https://medium.com/klaytn/how-to-use-tatum-sdk-on-klaytn-part-1-919280d763d8))
+How to use Tatum SDK on Klaytn(Part 1) ([한국어](https://klaytn-tech.medium.com/how-to-use-tatumsdk-on-klaytn-part-1-153bac68df7), [English](https://medium.com/klaytn/how-to-use-tatum-sdk-on-klaytn-part-1-919280d763d8))
 
 Using Klaytn Plugin on Remix ([한국어](https://medium.com/klaytn-kr/%EB%A6%AC%EB%AF%B9%EC%8A%A4%EC%97%90%EC%84%9C-%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-3394b52cc8fd), [English](https://medium.com/klaytn/using-klaytn-plugin-on-remix-320ead9114fe) )
 
