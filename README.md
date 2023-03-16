@@ -18,6 +18,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [SDKs](#sdks)
 - [Services running on Klaytn](#services-running-on-klaytn)
 - [API Services](#api-services)
+- [Naming Services](#naming-services)
 - [Development Tools](#development-tools)
 - [Starter Kits](#starter-kits)
 - [Useful Packages](#useful-packages)
@@ -108,7 +109,10 @@ This page introduces all links related to core and ecosystem development of Klay
 - [BlockPI](https://blockpi.io/)
 - [Octet](https://octet.im/product/)
 - [BlockSDK](https://blocksdk.com/) - [Documentation](https://documenter.getpostman.com/view/20292093/Uz5FKwxw#7b85cc54-fd97-4a30-9a6b-06808938c1bc)
- 
+
+## Naming Services
+- [KNS](https://klaytn.domains/) - [Documentation](https://docs.klaytn.domains/)
+
 ## Development Tools
 - [Remix](https://remix.ethereum.org/) - No-setup tool with a GUI for developing smart contracts.
 - [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework for blockchains using the EVM.
