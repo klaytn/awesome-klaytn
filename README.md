@@ -81,6 +81,7 @@ This page introduces all links related to core and ecosystem development of Klay
   - [Trustkeys](https://trustkeys.network/)
   - [Nest](https://nes.tech/)
   - [Math Wallet](https://mathwallet.org/ko-kr/)
+  - [Favorlet](https://favorlet.io/)
 - Browser Extension Wallets
   - [Kaikas](https://chrome.google.com/webstore/detail/kaikas/jblndlipeogpafnldhgmapagcccfchpi) - [Documentation](https://docs.kaikas.io/)
   - [Dekey](https://chrome.google.com/webstore/detail/dekey/cekclnkpicopjiagjphfoahcinhmgbjp)
