@@ -47,6 +47,8 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Gitter](https://gitter.im/klaytn)
 - [Klaytn Developer Forum](https://forum.klaytn.com/)
 - [Klaytn Developers Facebook](https://www.facebook.com/groups/klaytndevelopers)
+- Klaytn DevMeet [한](https://lu.ma/1o0i07bq) [EN](https://lu.ma/klaytn-devmeet-apr2023)
+- [Korea Blockchain Meetup](https://www.meetup.com/ko-KR/korea-blockchain-meetup/)
 
 ## Documentation
 - Klaytn Docs ([EN](https://docs.klaytn.com/), [한](https://ko.docs.klaytn.com/)) - Introduces Klaytn, an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions of users.
