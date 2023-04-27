@@ -87,6 +87,9 @@ This page introduces all links related to core and ecosystem development of Klay
   - [ABC Wallet](https://myabcwallet.io/en/)
   - [1inch](https://play.google.com/store/apps/details?id=io.oneinch.android&hl=en&gl=US)
   - [Burrito](https://www.burritowallet.com/)
+  - [Midas Protocol](https://midasprotocol.io/)
+  - [OKX wallet](https://www.okx.com/web3)
+  - [Bit2Me](https://bit2me.com/suite/wallet-klaytn)
 - Browser Extension Wallets
   - [Kaikas](https://chrome.google.com/webstore/detail/kaikas/jblndlipeogpafnldhgmapagcccfchpi) - [Documentation](https://docs.kaikas.io/)
   - [Dekey](https://chrome.google.com/webstore/detail/dekey/cekclnkpicopjiagjphfoahcinhmgbjp)
