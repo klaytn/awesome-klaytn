@@ -206,6 +206,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [cBridge](https://cbridge.celer.network/8217/1/DAI)
 - [AllBridge](https://app.allbridge.io/bridge?from=KLAY&to=ETH&asset=ABR)
 - [Carrier](https://www.carrier.so/)
+- [XY Finance](https://app.xy.finance/)
 
 ## DEXs
 - [KLAYswap](https://klayswap.com/)
