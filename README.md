@@ -192,6 +192,7 @@ This page introduces all links related to core and ecosystem development of Klay
   - [Endpoint status page from Community](https://3794.github.io/klaytn-rpc-list/)
  
 ## Oracles
+- [Orakl](https://www.orakl.network/)
 - [Witnet](https://feeds.witnet.io/klaytn)
 - [SupraOracles](https://data.supraoracles.com/networks/klaytn)
 - [KlayOracle](https://www.klayoracle.com/)
