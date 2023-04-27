@@ -93,6 +93,9 @@ This page introduces all links related to core and ecosystem development of Klay
   - [COIN98](https://chrome.google.com/webstore/detail/coin98-wallet/aeachknmefphepccionboohckonoeemg)
   - [web3auth](https://web3auth.io/) - [Documentation](https://web3auth.io/docs/connect-blockchain/klaytn)
   - [ABC Wallet](https://chrome.google.com/webstore/detail/abc-wallet/mlhakagmgkmonhdonhkpjeebfphligng)
+  - [Midas Protocol](https://midasprotocol.io/)
+  - [OKX wallet](https://www.okx.com/web3)
+  - [Bit2Me](https://bit2me.com/suite/wallet-klaytn)
 - Hardware Wallets
   - [D'CENT](https://dcentwallet.com/products/BiometricWallet)
 - Multisig Wallet 
