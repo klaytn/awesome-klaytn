@@ -112,7 +112,8 @@ This page introduces all links related to core and ecosystem development of Klay
 
 ## API Services
 - [Klaytn API Service](https://www.klaytnapi.com/) - Documentation ([EN](https://docs.klaytnapi.com/v/en/), [한](https://docs.klaytnapi.com/)).
-- [Public JSON-RPC Endpoints](https://docs.klaytn.foundation/content/dapp/json-rpc/public-en#public-json-rpc-endpoints)
+- [Public JSON-RPC Endpoints](https://docs.klaytn.foundation/content/dapp/rpc-service/public-en)
+- [JSON-RPC Endpoint Services (Paid Plans)](https://docs.klaytn.foundation/content/dapp/rpc-service)
 - [Covalent API](https://www.covalenthq.com/) - [Documentation](https://www.covalenthq.com/docs/networks/klaytn/)
 - [Tatum](https://tatum.io/) - [Documentation](https://tatum.io/apidoc.php#tag/Blockchain-Klaytn)
 - [Henesis](https://henesis.io/en) - [Documentation](https://docs.henesis.io/docs)
