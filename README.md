@@ -98,6 +98,7 @@ This page introduces all links related to core and ecosystem development of Klay
   - [ABC Wallet](https://chrome.google.com/webstore/detail/abc-wallet/mlhakagmgkmonhdonhkpjeebfphligng)
 - Hardware Wallets
   - [D'CENT](https://dcentwallet.com/products/BiometricWallet)
+  - [SafePal](https://www.safepal.com/en/)
 - Multisig Wallet 
   - [Klaytn Safe](https://safe.klaytn.foundation/)
 
