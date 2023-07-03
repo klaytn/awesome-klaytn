@@ -65,6 +65,7 @@ This page introduces all links related to core and ecosystem development of Klay
 ## Chain Data Explorers
 - [KlaytnScope](https://scope.klaytn.com/)
 - [KlaytnFinder](https://www.klaytnfinder.io/)
+- [OKLink Klaytn Explorer](https://www.oklink.com/klaytn)
 - [LIVE COIN WATCH](https://www.livecoinwatch.com/?platforms=KLAY)
 - [Bitquery](https://explorer.bitquery.io/klaytn)
 - [Finding NFT](https://findingnft.io/)
