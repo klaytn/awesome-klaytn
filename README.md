@@ -120,7 +120,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Henesis](https://henesis.io/en) - [Documentation](https://docs.henesis.io/docs)
 - [Bitquery](https://bitquery.io/blog/klaytn-api)
 - [BlockPI](https://blockpi.io/)
-- [Octet](https://octet.im/product/)
+- [Octet](https://octet.im/product/) - Documentation ([EN](https://docs.octet.im/v2.0-eng/docs), [한](https://docs.octet.im/docs)).
 - [BlockSDK](https://blocksdk.com/) - [Documentation](https://documenter.getpostman.com/view/20292093/Uz5FKwxw#7b85cc54-fd97-4a30-9a6b-06808938c1bc)
 
 ## Naming Services
