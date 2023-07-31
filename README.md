@@ -176,7 +176,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Pala Square](https://pala.world/square)
 - [klaymint](https://www.klaymint.io/)
 - [Klubs](https://klu.bs/)
-- [TOFUNFT](https://tofunft.com/klaytn)
+- [XClusive](https://xclusive.market/marketplace/collections?Chain=KLAYTN)
  
 ## dApp Directory Services
 - [Dapp.com](https://www.dapp.com/)
