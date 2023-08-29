@@ -104,6 +104,7 @@ This page introduces all links related to core and ecosystem development of Klay
   - [Klaytn Safe](https://safe.klaytn.foundation/)
 
 ## SDKs
+- [web3klaytn](https://github.com/klaytn/web3klaytn) - a set of SDKs to interact with Klaytn by extending existing web3 SDKs.
 - [caver-js](https://github.com/klaytn/caver-js) - JavaScript client that allows developers to interact with a Klaytn node.
 - [caver-java](https://github.com/klaytn/caver-java) - Java client that allows developers to interact with a Klaytn node.
 - [tatum-js](https://github.com/tatumio/tatum-js) - JavaScript client to interact with a Klaytn node through Tatum APIs.
