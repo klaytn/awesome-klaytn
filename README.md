@@ -57,7 +57,7 @@ This page introduces all links related to core and ecosystem development of Klay
 
 ## Public Endpoints
 - [https://public-en-cypress.klaytn.net](https://public-en-cypress.klaytn.net) - Provided by [Klaytn Foundation](https://klaytn.foundation/).
-- [https://public-node-api.klaytnapi.com/v1/cypress](https://public-node-api.klaytnapi.com/v1/cypress) - Provided by [Klaytn API Service](https://klaytnapi.com/en/landing/overview).
+- [https://klaytn.blockpi.network/v1/rpc/public](https://klaytn.blockpi.network/v1/rpc/public) - Provided by [BlockPI Network](https://blockpi.io/).
 - [https://klaytn-mainnet-rpc.allthatnode.com:8551](https://klaytn-mainnet-rpc.allthatnode.com:8551) - Provided by [All That Node](https://allthatnode.com/).
 - [https://klaytn-rpc.gateway.pokt.network](https://klaytn-rpc.gateway.pokt.network) - Provided by [Pocket network](https://docs.pokt.network/).
 - [For more details please refer here](https://docs.klaytn.foundation/dapp/json-rpc/public-en) - Contains list of public json rpc endpoints.
