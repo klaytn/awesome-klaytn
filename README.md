@@ -178,6 +178,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [klaymint](https://www.klaymint.io/)
 - [Klubs](https://klu.bs/)
 - [XClusive](https://xclusive.market/marketplace/collections?Chain=KLAYTN)
+- [#space Art](https://3space.art/home)
  
 ## dApp Directory Services
 - [Dapp.com](https://www.dapp.com/)
