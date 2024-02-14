@@ -70,10 +70,16 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Bitquery](https://explorer.bitquery.io/klaytn)
 - [Finding NFT](https://findingnft.io/)
 
+## GraphQL APIs
+- [Bitquery](https://explorer.bitquery.io/klaytn)
+- [Subquery] (https://explorer.subquery.network/)
+
 ## Wallets
 - Mobile Wallets
+  - [Kaikas](https://app.kaikas.io/) - [Documentation](https://docs.kaikas.io/)
   - [Klip](https://klipwallet.com/) - [Documentation](https://docs.klipwallet.com/)
   - [D'CENT](https://dcentwallet.com/)
+  - [SafePal](https://www.safepal.com/en/)
   - [nBlocks](https://nblocks.io/)
   - [Klaytn Wallet](https://wallet.klaytn.com/)
   - [Huobi Wallet](https://www.huobiwallet.com/en/)
