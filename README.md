@@ -10,37 +10,40 @@ This page introduces all links related to core and ecosystem development of Klay
 
 ## Contents
 
-- [Developer Communication Channels and Forums](#developer-communication-channels-and-forums)
-- [Documentation](#documentation)
-- [Public Endpoints](#public-endpoints)
-- [Chain Data Explorers](#chain-data-explorers)
-- [Wallets](#wallets)
-- [SDKs](#sdks)
-- [Services running on Klaytn](#services-running-on-klaytn)
-- [API Services](#api-services)
-- [Naming Services](#naming-services)
-- [Development Tools](#development-tools)
-- [Starter Kits](#starter-kits)
-- [Useful Packages](#useful-packages)
-- [Sample Apps and Examples](#sample-apps-and-examples)
-- [Useful contract addresses deployed on Klaytn](#useful-contract-addresses-deployed-on-klaytn)
-- [NFT Marketplaces](#nft-marketplaces)
-- [dApp Directory Services](#dapp-directory-services)
-- [Analytics](#analytics)
-- [Status Pages](#status-pages)
-- [Oracles](#oracles)
-- [Bridges](#bridges)
-- [DEXs](#dexs)
-- [Governance/Voting Tools](#governancevoting-tools)
-- [Community Management Tools](#community-management-tools)
-- [Deployment Tools](#deployment-tools)
-- [Network Testers](#network-testers)
-- [Public Disclosure](#public-disclosure)
-- [Miscellaneous Links](#miscellaneous-links)
-- [Useful Article Links by Community Members](#useful-article-links-by-community-members)
-- [Useful Article Links by Community Members in Korean](#useful-article-links-by-community-members-in-korean)
-- [Video lectures and presentations in Korean](#video-lectures-and-presentations-in-korean)
-- [Presentations](#presentations)
+- [Awesome Klaytn ](#awesome-klaytn-)
+  - [Contents](#contents)
+  - [Developer Communication Channels and Forums](#developer-communication-channels-and-forums)
+  - [Documentation](#documentation)
+  - [Public Endpoints](#public-endpoints)
+  - [Chain Data Explorers](#chain-data-explorers)
+  - [GraphQL APIs](#graphql-apis)
+  - [Wallets](#wallets)
+  - [SDKs](#sdks)
+  - [Services running on Klaytn](#services-running-on-klaytn)
+  - [API Services](#api-services)
+  - [Naming Services](#naming-services)
+  - [Development Tools](#development-tools)
+  - [Starter Kits](#starter-kits)
+  - [Useful Packages](#useful-packages)
+  - [Sample Apps and Examples](#sample-apps-and-examples)
+  - [Useful contract addresses deployed on Klaytn](#useful-contract-addresses-deployed-on-klaytn)
+  - [NFT Marketplaces](#nft-marketplaces)
+  - [dApp Directory Services](#dapp-directory-services)
+  - [Analytics](#analytics)
+  - [Status Pages](#status-pages)
+  - [Oracles](#oracles)
+  - [Bridges](#bridges)
+  - [DEXs](#dexs)
+  - [Governance/Voting Tools](#governancevoting-tools)
+  - [Community Management Tools](#community-management-tools)
+  - [Deployment Tools](#deployment-tools)
+  - [Network Testers](#network-testers)
+  - [Public Disclosure](#public-disclosure)
+  - [Miscellaneous Links](#miscellaneous-links)
+  - [Useful Article Links by Community Members](#useful-article-links-by-community-members)
+  - [Useful Article Links by Community Members in Korean](#useful-article-links-by-community-members-in-korean)
+  - [Video lectures and presentations in Korean](#video-lectures-and-presentations-in-korean)
+  - [Presentations](#presentations)
 
 ## Developer Communication Channels and Forums
 - [Discord](https://discord.gg/aY8mrCGANk)
@@ -51,7 +54,7 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Korea Blockchain Meetup](https://www.meetup.com/ko-KR/korea-blockchain-meetup/)
 
 ## Documentation
-- Klaytn Docs ([EN](https://docs.klaytn.com/), [한](https://ko.docs.klaytn.com/)) - Introduces Klaytn, an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions of users.
+- Klaytn Docs ([EN](https://docs.klaytn.foundation/), [한](https://docs.klaytn.foundation/ko/), [Tiếng Việt](https://docs.klaytn.foundation/vi/)) - Introduces Klaytn, an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions of users.
 - [KIPs](https://github.com/klaytn/kips) - Describe standards for the Klaytn platform, including core protocol specifications, client APIs, and contract standards.
 - [Tech Blog Article List](https://github.com/klaytn/awesome-klaytn/blob/main/tech-blog.md) - Contains Latest articles and updates from the Klaytn Tech Blog.
 
@@ -122,9 +125,10 @@ This page introduces all links related to core and ecosystem development of Klay
 - [Klaytn API Service](https://www.klaytnapi.com/) - Documentation ([EN](https://docs.klaytnapi.com/v/en/), [한](https://docs.klaytnapi.com/)).
 - [Public JSON-RPC Endpoints](https://docs.klaytn.foundation/content/dapp/rpc-service/public-en)
 - [JSON-RPC Endpoint Services (Paid Plans)](https://docs.klaytn.foundation/content/dapp/rpc-service)
-- [Covalent API](https://www.covalenthq.com/) - [Documentation](https://www.covalenthq.com/docs/networks/klaytn/)
+<!-- - [Covalent API](https://www.covalenthq.com/) - [Documentation](https://www.covalenthq.com/docs/networks/klaytn/) * -->
 - [Tatum](https://tatum.io/) - [Documentation](https://tatum.io/apidoc.php#tag/Blockchain-Klaytn)
 - [Henesis](https://henesis.io/en) - [Documentation](https://docs.henesis.io/docs)
+- [Unmarshal](https://unmarshal.io/) - [Documentation](http://docs.unmarshal.io/)
 - [Bitquery](https://bitquery.io/blog/klaytn-api)
 - [BlockPI](https://blockpi.io/)
 - [Octet](https://octet.im/product/) - Documentation ([EN](https://docs.octet.im/v2.0-eng/docs), [한](https://docs.octet.im/docs)).
@@ -268,6 +272,18 @@ This page introduces all links related to core and ecosystem development of Klay
 - [How to set up an Hardhat project for Klaytn](https://oxpampam.hashnode.dev/how-to-set-up-a-hardhat-project-for-klaytn)
 - [Klaytn Baobab Faucet: Solidity Smart Contract](https://oxpampam.hashnode.dev/klaytn-baobab-faucet-solidity-smart-contract)
 - [Beginner's guide on how to add Klaytn to Metamask](https://oxpampam.hashnode.dev/beginners-guide-on-how-to-add-klaytn-to-metamask)
+- [A guide to using CREATE2 opcode on Klaytn](https://medium.com/coinsbench/a-guide-to-using-create2-opcode-on-klaytn-75ef98d1c904)
+- [EIP-1167 Minimal Proxy Contract On Klaytn](https://medium.com/coinsbench/eip-1167-minimal-proxy-contract-on-klaytn-f246532c6dc7)
+- [How To Create TimeLock Contracts on Klaytn](https://medium.com/@oluwolekayode61/how-to-create-timelock-contracts-on-klaytn-f6b16653abf5)
+- [DAOs and DAO Toolings on Klaytn](https://medium.com/@oluwolekayode61/daos-and-dao-toolings-on-klaytn-3c7cc7f48514)
+- [How To Create a Dutch Auction Contract on Klaytn](https://medium.com/coinsbench/how-to-create-a-dutch-auction-contract-on-klaytn-82a7bc1790a8)
+- [ERC-4337: Workings of Account Abstraction on Klaytn Explained](https://medium.com/@PaulElisha1/erc-4337-account-abstraction-3f0cd69ef256)
+- [Understanding Oracle, Building A Coin Flip Contract Using Orakl To Generate Random Words And Deploying To Klaytn Testnet](https://medium.com/@PaulElisha1/understanding-oracle-building-a-coin-flip-contract-using-orakl-to-generate-random-words-and-9af39cac8ea1)
+- [RWA: Bullish On The Impact Of Klaytn In Driving Asset Tokenization](https://medium.com/@PaulElisha1/rwa-bullish-on-the-impact-of-klaytn-in-using-blockchain-technology-to-drive-asset-tokenization-46be62f6a373)
+- [Simplifying Klaytn Swap Contract V2](https://medium.com/@PaulElisha1/simplifying-klay-swap-contract-45b1783e226d)
+- [Cloning Smart Contract: Understanding Factory Pattern](https://medium.com/@PaulElisha1/cloning-smart-contract-understanding-factory-pattern-5f64f698bc93)
+- [Building A Multisig Wallet On Klaytn](https://medium.com/@PaulElisha1/building-a-multisig-wallet-on-klaytn-b47c2e783399)
+
 
 ## Useful Article Links by Community Members in Korean
 - [개발없이 Klaytn NFT 발행하기 - Klay-Gacha-Machine](https://medium.com/@eklee808/%EA%B0%9C%EB%B0%9C%EC%97%86%EC%9D%B4-%ED%81%B4%EB%A0%88%EC%9D%B4-%EC%A0%9C%EB%84%88%EB%9F%AC%ED%8B%B0%EB%B8%8C-nft-%EB%B0%9C%ED%96%89%ED%95%98%EA%B8%B0-1-klay-gacha-machine-eb17496e8b22)
