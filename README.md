@@ -9,7 +9,6 @@ This page introduces all links related to core and ecosystem development of Klay
 > DISCLAIMER: The list is updated and maintained by the Klaytn Community. Use below tools and links at your own risk.
 
 ## Contents
-
 - [Awesome Klaytn ](#awesome-klaytn-)
   - [Contents](#contents)
   - [Developer Communication Channels and Forums](#developer-communication-channels-and-forums)
